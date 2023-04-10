@@ -9,3 +9,6 @@ There are some cool results there not included in the final report such as Ander
 Those provide much higher test statistics since Anderson-Darling puts more emphasis on the tails of the distribution, and 
 the Pareto Distribution has a *very long* tail. Also some MLE, where the data doesn't fit since it performed with the house
 edge included, but a section with latex which I'm pretty proud of. 
+
+## Location
+```csgocrash_report.ipynb``` for the main report, and ```visualizations.ipynb``` for some other side visuals I made that weren't included. 
